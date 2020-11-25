@@ -29,3 +29,4 @@ function ulang(u, aksi) {
 }
 // ulang(11, console.log);
 ulang(2, console.log);
+// ulang(2,alert);

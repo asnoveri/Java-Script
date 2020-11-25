@@ -81,7 +81,7 @@
 
 
 
-//     2. for..ins -> digunakan unutk melooping property dari object
+//     2. for..in -> digunakan unutk melooping property dari object
 //          -> melakukan pengulangan pada property pada object (enumarabel) 
 
     // contoh:

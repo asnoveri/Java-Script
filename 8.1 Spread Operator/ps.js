@@ -39,6 +39,6 @@
         
     // 3.
 
-    const nama= document.querySelector(".nama");
-    const hrf= [...nama.textContent].map(h=> `<span>${h}</span>`).join("");
-    nama.innerHTML=hrf;
+    // const nama= document.querySelector(".nama");
+    // const hrf= [...nama.textContent].map(h=> `<span>${h}</span>`).join("");
+    // nama.innerHTML=hrf;
