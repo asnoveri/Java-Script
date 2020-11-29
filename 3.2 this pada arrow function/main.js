@@ -74,7 +74,7 @@ const datacoba = new Mahasiswa("asno", 25);
 // datacoba.kelas(10);
 
 
-//pada contoh di atas di temukan masalah pada function declaration set interval, keyword this adalah object global, karena tersebut kita tidak bisa mengunkan properti kelas awal, namu terdapat cara agar kita bisa mengunkannya yaitu mengunbah function deklaration pada setInterval menjadi arrow funtion, sperti contoh di bawah 
+//pada contoh di atas di temukan masalah pada function declaration set interval, keyword this adalah object global, karena tersebut kita tidak bisa mengunkan properti kelas awal, namu terdapat cara agar kita bisa mengunkannya yaitu mengubah function deklaration pada setInterval menjadi arrow funtion, sperti contoh di bawah 
 function Mahasiswa1(nama, umur) {
     this.nama = nama;
     this.umur = umur;

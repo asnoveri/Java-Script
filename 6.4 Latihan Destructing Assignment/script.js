@@ -45,7 +45,7 @@ const arr=['asno','dapit','rohim','robi'];
     //     kelas:"3A",
     //     pekerjaan:"Staf IT"
     // }
-    // assignment tanpa deklarasi object
+    
     // const {nama,umur,kelas,pekerjaan}= obj;
     // console.log(`Perkenalankan Nama Saya: ${nama}, umur saya: {${umur}} tahun, saya kelas: ${kelas}, pekerjaan saya: ${pekerjaan}`);
 
