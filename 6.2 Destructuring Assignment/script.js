@@ -47,8 +47,6 @@
             // let angk2= "saya dua";
             // console.log(angk1);
             // console.log(angk2);
-            
-            // console.log("");
 
             // [angk1,angk2]=[angk2,angk1];
             // console.log(angk1);
