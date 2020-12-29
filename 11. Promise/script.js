@@ -27,7 +27,7 @@
     
     callback healt -> terlalu banyak callbak
 
-    note: * promise biasa di pakai ketiak kita menrequest data pada sebuah API
+    note: * promise biasa di pakai ketika kita menrequest data pada sebuah API
 
     promise.all() = method yang digunakan menjlan semeua promise yang ada.
 */
@@ -165,5 +165,6 @@ function tesPromise(){
 }
     
 tesPromise();
+
 
     

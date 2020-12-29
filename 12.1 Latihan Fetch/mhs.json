@@ -1,0 +1,30 @@
+[
+    {
+            "nama"          : "asno veri",
+            "nobp"          : 14101152610264,
+            "email"         : "asnoveri15@gmail.com",
+            "jurusan"       : "sistem informasi",
+            "dosen_id"      : 1
+    },
+    {
+            "nama"          : "nikma ayuni",
+            "nobp"          : 14101152610262,
+            "email"         : "nik@gmail.com",
+            "jurusan"       : "sistem informasi",
+            "dosen_id"      : 2
+    },
+    {
+            "nama"          : "rohim",
+            "nobp"          : 14101152610164,
+            "email"         : "rohim@gmail.com",
+            "jurusan"       : "sistem informasi",
+            "dosen_id"      : 4
+    },
+    {
+            "nama"          : "veri",
+            "nobp"          : 14101152710264,
+            "email"         : "veri15@gmail.com",
+            "jurusan"       : "sistem informasi",
+            "dosen_id"      : 5
+    }
+]
