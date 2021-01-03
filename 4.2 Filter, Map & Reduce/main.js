@@ -24,7 +24,8 @@ const angka = [1, 1, 4, 5, 6, 11, 8, 10];
 // curentval  -> eleme array yang sedang di looping,
 // 1 + 1 + 4 + 5 + 6 + 11 + 8+ 10 
 // const newAngka = angka.reduce((acumulator, curentnval) =>
-//     acumulator + curentnval)
+//     acumulator + curentnval,0)
+// ket 0 diatas dibbelakan koma curentval-> meruapakan nilai awal kalaw tidak ditulis nilai awalnya defaultnya nol
 // console.log(newAngka);
 
 // 4. methode chaining (berantai)
@@ -44,5 +45,5 @@ const angka = [1, 1, 4, 5, 6, 11, 8, 10];
 
 // const NewAngka = angka.filter((x) => x > 6)
 //     .map(x => x *= 2)
-//     .reduce((acc, crr) => acc + crr);
+//     .reduce((acc, crr) => acc + crr,2);
 // console.log(NewAngka);
