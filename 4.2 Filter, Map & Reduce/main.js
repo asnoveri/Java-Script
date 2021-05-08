@@ -22,7 +22,7 @@ const angka = [1, 1, 4, 5, 6, 11, 8, 10];
 // jumlah selurh emlemen pada array
 // acumulator -> hasil dari proses(+,-,*,/) dari elemen array tertentu
 // curentval  -> eleme array yang sedang di looping,
-// 1 + 1 + 4 + 5 + 6 + 11 + 8+ 10 
+// 1 + 1 + 4 + 5 + 6 + 11 + 8+ 10
 // const newAngka = angka.reduce((acumulator, curentnval) =>
 //     acumulator + curentnval,0)
 // ket 0 diatas dibbelakan koma curentval-> meruapakan nilai awal kalaw tidak ditulis nilai awalnya defaultnya nol
@@ -31,8 +31,8 @@ const angka = [1, 1, 4, 5, 6, 11, 8, 10];
 // 4. methode chaining (berantai)
 // cari angka >6
 // dikalikan 2
-// jumlahkan 
-// 11,8,10 
+// jumlahkan
+// 11,8,10
 //22,16,20
 //hasilnya 58
 // const NewAngka = angka.filter(function (x) {
